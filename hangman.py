@@ -1,3 +1,5 @@
+#NOT MY CODE. ONLY USING GITHUB AS A SOURCE FOR DOWNLOAD WHILE USING BUILDROOT
+#ORIGINAL SOURCE: https://www.pythonforbeginners.com/code-snippets-source-code/game-hangman/
 #importing the time module
 import time
 
